@@ -1,0 +1,118 @@
+#btn {
+    padding: 20px;
+    border-radius: 20px;
+    margin-left: 25px;
+    position: absolute;
+    top: 130px;
+}
+
+#margin {
+    margin-left: 135px;
+    border-radius: 9px;
+    background-color: rgb(55, 150, 228);
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: black;
+}
+
+.contanier {
+
+    position: absolute;
+    left: 40%;
+    top: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 40px;
+    background-color: rgb(156, 156, 156);
+    padding: 10px;
+    padding-top: 0px;
+    border-radius: 15px;
+    border: 5px solid red;
+}
+
+#mar {
+    margin-right: 105px;
+
+}
+
+.big {
+    width: 55px;
+    padding: 8px;
+    border-radius: 10px;
+
+}
+
+button {
+    display: inline-block;
+}
+
+#design {
+    font-size: small;
+    opacity: 0.5;
+}
+
+h1 {
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    font-family: cursive;
+    background-color: rgb(95, 205, 233);
+
+}
+
+.size {
+    width: 40px;
+    border-radius: 7px;
+    padding: 5px;
+    margin-left: 3.5px;
+    background-color: gray;
+    color: aliceblue;
+}
+
+#left {
+    margin-left: 8px;
+    border-radius: 9px;
+    background-color: rgb(55, 150, 228);
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#delete {
+    background-color: greenyellow;
+}
+
+#AC {
+    background-color: greenyellow;
+
+}
+
+#On {
+    border-radius: 9px;
+    background-color: rgb(55, 150, 228);
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#AL {
+    border-radius: 9px;
+    background-color: rgb(55, 150, 228);
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+button {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#display {
+    background-color: aliceblue;
+    position: sticky;
+    top: 7%;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: medium;
+    height: 70px;
+}
